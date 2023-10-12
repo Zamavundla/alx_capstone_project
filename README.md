@@ -34,5 +34,6 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 6. Create a professional and visually appealing user interface for a great user experience.
 7. Showcase your project's functionality and features effectively in your portfolio.
 
-## Additional Suggestion
-Consider enhancing your Fitness Tracker project by integrating a random workout routine or exercise suggestion feature. This could provide users with diverse exercise options to keep their fitness journey interesting and challenging. You can leverage APIs that offer random workout routines or create your own algorithm to generate suggestions.
+## Contact Details
+LinkedIn -  https://www.linkedin.com/in/zamavundla-samkelisiwe-duze-3b2098b5/ 
+X - https://twitter.com/DuzeZamavundla 
