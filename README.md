@@ -25,6 +25,8 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 - The ability to categorize workouts by type (e.g., cardio, strength, flexibility).
 - Generation of reports to provide insights into a user's fitness journey.
 
+![Fitness Tracker](Cover.png)
+
 ## Project Guidelines
 1. Plan your project carefully, defining the features, functionality, and design aspects.
 2. Implement the project using the programming languages and tools you have learned throughout the course.
@@ -33,5 +35,9 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 5. Thoroughly test your project to identify and fix any bugs or issues.
 6. Create a professional and visually appealing user interface for a great user experience.
 7. Showcase your project's functionality and features effectively in your portfolio.
+
+## Project Workflow.
+![Project Workflow](<Fitness Tracking App.png>)
+
 
 ## Contact Details
