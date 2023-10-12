@@ -3,9 +3,11 @@
 # Fitness Tracker Project
 
 ## Project Objective
+
 The Fitness Tracker project is designed to help users track their workouts, set fitness goals, and monitor their progress. This project serves as a practical application for the skills and technologies you have learned during your web development journey.
 
 ## Technologies Used
+
 - HTML
 - CSS
 - Python
@@ -16,6 +18,7 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 - Git
 
 ## Project Features
+
 - User registration and authentication.
 - Ability for users to log their exercises and workouts, including exercise type, duration, and date.
 - Option to set fitness goals, such as weight loss or muscle gain targets.
@@ -28,6 +31,7 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 ![Fitness Tracker](Cover.png)
 
 ## Project Guidelines
+
 1. Plan your project carefully, defining the features, functionality, and design aspects.
 2. Implement the project using the programming languages and tools you have learned throughout the course.
 3. Organize your code following best practices to ensure readability and maintainability.
@@ -36,8 +40,8 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 6. Create a professional and visually appealing user interface for a great user experience.
 7. Showcase your project's functionality and features effectively in your portfolio.
 
-## Project Workflow.
-![Project Workflow](<Fitness Tracking App.png>)
+## Project Workflow
 
+![Project Workflow](<Fitness Tracking App.png>)
 
 ## Contact Details
