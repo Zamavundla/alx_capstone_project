@@ -35,5 +35,3 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 7. Showcase your project's functionality and features effectively in your portfolio.
 
 ## Contact Details
-LinkedIn -  https://www.linkedin.com/in/zamavundla-samkelisiwe-duze-3b2098b5/ 
-X - https://twitter.com/DuzeZamavundla 
