@@ -42,6 +42,6 @@ The Fitness Tracker project is designed to help users track their workouts, set 
 
 ## Project Workflow
 
-![Project Workflow](<Fitness Tracking App.png>)
+![Project Workflow](<Fitness Tracking App.jpeg>)
 
 ## Contact Details
