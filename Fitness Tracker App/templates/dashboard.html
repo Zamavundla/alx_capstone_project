@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="app.css">
+    <script src="./app.js" defer type="module"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Welcome, {{ username }}</h2>
+        <h3>Choose a City</h3>
+        <form method="POST" action="/dashboard">
+            <input type="text" name="city" placeholder="Enter a city" required>
+            <button type="submit">Show Weather</button>
+        </form>
+        <h3>Current Weather</h3>
+        {% if weather %}
+            <p>Temperature: {{ weather['temperature'] }}°C</p>
+            <p>Conditions: {{ weather['description'] }}</p>
+        {% else %}
+            <p>Weather information will be displayed here after you enter a city.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
